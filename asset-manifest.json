@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bivekrawat.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/bivekrawat.github.io/static/js/main.41790e8b.chunk.js",
+    "main.js.map": "/bivekrawat.github.io/static/js/main.41790e8b.chunk.js.map",
+    "runtime-main.js": "/bivekrawat.github.io/static/js/runtime-main.8851377b.js",
+    "runtime-main.js.map": "/bivekrawat.github.io/static/js/runtime-main.8851377b.js.map",
+    "static/js/2.9afbd95a.chunk.js": "/bivekrawat.github.io/static/js/2.9afbd95a.chunk.js",
+    "static/js/2.9afbd95a.chunk.js.map": "/bivekrawat.github.io/static/js/2.9afbd95a.chunk.js.map",
+    "index.html": "/bivekrawat.github.io/index.html",
+    "precache-manifest.9d7045c805c2df6cd0e100d154bc1d8f.js": "/bivekrawat.github.io/precache-manifest.9d7045c805c2df6cd0e100d154bc1d8f.js",
+    "service-worker.js": "/bivekrawat.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/bivekrawat.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9afbd95a.chunk.js.LICENSE.txt": "/bivekrawat.github.io/static/js/2.9afbd95a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bivekrawat.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8851377b.js",
+    "static/js/2.9afbd95a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.41790e8b.chunk.js"
+  ]
+}
